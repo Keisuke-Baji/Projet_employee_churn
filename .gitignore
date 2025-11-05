@@ -1,0 +1,22 @@
+# Fichiers temporaires
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Environnements virtuels
+venv/
+.env/
+
+# Données volumineuses
+*.csv
+*.xlsx
+*.zip
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Config IDE
+.vscode/
+.idea/
