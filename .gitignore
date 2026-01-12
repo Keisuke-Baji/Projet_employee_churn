@@ -20,3 +20,5 @@ venv/
 # Config IDE
 .vscode/
 .idea/
+
+!employee_churn.csv
